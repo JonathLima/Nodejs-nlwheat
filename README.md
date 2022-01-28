@@ -22,12 +22,12 @@ Este projeto foi realizado com os conhecimentos passados no impulse [Rocketseat]
 
 ## 🔨 Tecnologias:
 
-- [Nodejs][nodejs]
 - [Typescript][typescript]
-- [Prisma][prisma]
-- [Socket.io][socket]
 - [Express][express]
+- [Nodejs][nodejs]
+- [Prisma][prisma]
 - [Jwt][jwt]
+- [Socket.io][socket]
 
  ## 📋 Implementações
 
@@ -67,7 +67,7 @@ $ yarn
 # Execute a Aplicação
 $ yarn dev
 
-# O servidor iniciara na porta:3000 - acesse http://localhost:3000
+# O servidor iniciara na porta:4000 - acesse http://localhost:4000
 ```
 
 ## 🤔 Como contribuir para o projeto
