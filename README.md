@@ -24,6 +24,7 @@ Este projeto foi realizado com os conhecimentos passados no impulse [Rocketseat]
 
 - [Nodejs][nodejs]
 - [Typescript][typescript]
+- [Prisma][prisma]
 - [Socket.io][socket]
 - [Express][express]
 - [Jwt][jwt]
@@ -91,6 +92,7 @@ Feito com ❤️ por Jonathan Silva 👋🏽 [Entre em contato!](https://www.lin
 [rs]: https://rocketseat.com.br
 [jwt]: https://jwt.io/
 [socket]: https://socket.io/
+[prisma]: https://www.prisma.io/
 
 [scss]:[https://sass-lang.com/]
 [license]: https://opensource.org/licenses/MIT
