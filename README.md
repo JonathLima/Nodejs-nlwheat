@@ -1,15 +1,15 @@
-# NLWHEAT_NODEJS
+# NLW HEAT NODEJS
 
-<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/NLWHEAT_NODEJS/GithubRepositories">
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/JonathSilva/Nodejs-nlwheat">
 
-<img alt="Repository size" src="https://img.shields.io/github/repo-size/NLWHEAT_NODEJS/GithubRepositories">
+<!--<img alt="Repository size" src="https://img.shields.io/github/repo-size/JonathSilva/Nodejs-nlwheat"> -->
 
 <a href="https://www.linkedin.com/in/jonathsilva/">
     <img alt="Made by JonathSilva" src="https://img.shields.io/badge/made%20by-JonathSilva-blue">
 </a>
 
 <a href="https://github.com/JonathSilva/NLWHEAT_NODEJS/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/JonathSilva/NLWHEAT_NODEJS?color=blue">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/JonathSilva/Nodejs-nlwheat?color=blue">
 </a>
 
 <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?color=blue">
@@ -18,7 +18,7 @@
 
 ## 🚀 Sobre o Projeto
 
-Este projeto é do curso realizado na [Udemy](https://www.udemy.com/course/curso-pratico-react-e-nextjs-essencial-com-typescript/) pelo professor [Aluizio Developer](https://github.com/aluiziodeveloper) consiste em criar um site para listar repositoriós do github.
+Este projeto foi realizado com os conhecimentos passados no impulse [Rocketseat](https://app.rocketseat.com.br/node/mission-impulse-heat) da trilha Nodejs.
 
 ## 🔨 Tecnologias:
 
@@ -50,10 +50,10 @@ Para clonar e executar este aplicativo, você precisará de [Git](https://git-sc
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/JonathSilva/NLWHEAT_NODEJS.git
+$ git clone https://github.com/JonathSilva/Nodejs-nlwheat.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd NLWHEAT_NODEJS
+$ cd Nodejs-nlwheat
 
 ```
 
